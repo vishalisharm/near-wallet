@@ -1,0 +1,39 @@
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  width: 800px; /* Set the width as needed */
+  height: 600px; /* Set the height as needed */
+  margin: auto; /* Center the card horizontally */
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+.card img {
+  width: 80%; /* Set the width of the image */
+  height: 50%; /* Set the height of the image */
+  border-radius: 8px;
+}
+
+.card-content {
+  padding-top: 10px;
+  text-align: center;
+}
+
+.card-content h1 {
+  margin: 0;
+  font-size: 3rem;
+}
+
+.card-content h1:nth-child(6) {
+  color: red; /* Set the color of the 6th letter (which is 'X') */
+}
+.card-content p {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #666;
+}
