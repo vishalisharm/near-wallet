@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vishalisharm/near-wallet.git/static/css/main.0b16ddc2.css",
+    "main.js": "/vishalisharm/near-wallet.git/static/js/main.5ebc7b9f.js",
+    "static/js/425.8812235b.chunk.js": "/vishalisharm/near-wallet.git/static/js/425.8812235b.chunk.js",
+    "index.html": "/vishalisharm/near-wallet.git/index.html",
+    "main.0b16ddc2.css.map": "/vishalisharm/near-wallet.git/static/css/main.0b16ddc2.css.map",
+    "main.5ebc7b9f.js.map": "/vishalisharm/near-wallet.git/static/js/main.5ebc7b9f.js.map",
+    "425.8812235b.chunk.js.map": "/vishalisharm/near-wallet.git/static/js/425.8812235b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b16ddc2.css",
+    "static/js/main.5ebc7b9f.js"
+  ]
+}
